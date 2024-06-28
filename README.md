@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Eshwar-21at1a3529/Eshwar-21at1a3529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eshwar-21at1a3529/Eshwar-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
