@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+This is my first Git Repository.
+Author - Eshwar Rao
 <!--
 **Eshwar-21at1a3529/Eshwar-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
